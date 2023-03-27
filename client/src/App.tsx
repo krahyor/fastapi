@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
-import Home from './api/Home'
-import LoginProfile from './api/LoginProfile'
-import RegisterProfile from './api/RegisterProfile'
+import Home from './Page/Home'
+import LoginProfile from './Page/LoginProfile'
+import RegisterProfile from './Page/RegisterProfile'
 import './App.css'
 
 function App() {
